@@ -1,2 +1,2 @@
-# PS_TestRepo
+# TestRepo
 This Repo is for Testing Purpose
